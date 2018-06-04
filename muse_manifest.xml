@@ -1,0 +1,162 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tajijoly.com" resolutions="1x" timestamp="1528127486898">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="316098658" ref="about:index:contact:portfolio"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="about:index:contact:portfolio"/>
+    <file name="about.css" crc="81856395" ref="about"/>
+    <file name="nomq_about.css" crc="3801355315" ref="about"/>
+    <file name="index.css" crc="416968873" ref="index"/>
+    <file name="nomq_index.css" crc="487934276" ref="index"/>
+    <file name="contact.css" crc="256529248" ref="contact"/>
+    <file name="nomq_contact.css" crc="134875940" ref="contact"/>
+    <file name="portfolio.css" crc="4181829124" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="440849769" ref="portfolio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:portfolio:about:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:portfolio:about:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:portfolio:about:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="index:portfolio:about:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:portfolio:about:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:portfolio:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:about:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:portfolio:about:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:portfolio:about:contact"/>
+    <file name="webpro.js" crc="242022427" ref="portfolio"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="portfolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:portfolio:about:contact"/>
+    <file name="u137.png" crc="4126078218" ref="index:portfolio:about:contact"/>
+    <file name="u137-a.png" crc="4182059345" ref="index:portfolio:about:contact"/>
+    <file name="u142.png" crc="4124286402" ref="index:portfolio:about:contact"/>
+    <file name="u142-a.png" crc="481432569" ref="index:portfolio:about:contact"/>
+    <file name="u178.png" crc="3946418337" ref="index:portfolio:about:contact"/>
+    <file name="u178-a.png" crc="401807184" ref="index:portfolio:about:contact"/>
+    <file name="u200.png" crc="481281249" ref="index:portfolio:about:contact"/>
+    <file name="u200-a.png" crc="3862913781" ref="index:portfolio:about:contact"/>
+    <file name="sitelogo.png" crc="4142764914" seo="true" ref="index:portfolio:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u422-6.png" crc="341614052" ref="index"/>
+    <file name="exhibitiontile-crop-u425.jpg" crc="3878076590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robin-crop-u457.jpg" crc="350119075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="restorationtile-crop-u467.jpg" crc="371466295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="netflixtile-crop-u445.jpg" crc="3990216951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skateboardtile-crop-u477.jpg" crc="246723477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_twitter_circle_294709.png" crc="454550899" seo="true" ref="index:portfolio:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="chopstickstile-crop-u487.jpg" crc="5774786" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="if_icon-linkedin-material-design_3116886.png" crc="374275064" seo="true" ref="index:portfolio:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="if_instagram_1298747.png" crc="3961609498" seo="true" ref="index:portfolio:about:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u422-62.png" crc="273954138" ref="index"/>
+    <file name="exhibitiontile.jpg" crc="3898892210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robin-crop-u4572.jpg" crc="322920576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="restorationtile-crop-u4672.jpg" crc="3960023446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="netflixtile-crop-u4452.jpg" crc="4079448952" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skateboardtile-crop-u4772.jpg" crc="532256521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chopstickstile-crop-u4872.jpg" crc="442375556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard 1.png" crc="4160634801" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="robin blue bgartboard 1-crop-u528.png" crc="512477871" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="restoration.jpg" crc="3869475574" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="portfolio"/>
+    <file name="tajimidtermexhibition.jpg" crc="335625592" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="chopsticks.png" crc="3982310179" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tajijnetflix.jpg" crc="450050924" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="artboard 1254x140.png" crc="4169361738" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="robin blue bgartboard 1-crop-u5282.png" crc="129853581" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="restoration-crop-u524.jpg" crc="298090035" seo="true" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="viewprofileimage.jpg" crc="308113294" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="u289-4.png" crc="94082355" ref="about"/>
+    <file name="u289-42.png" crc="468384395" ref="about"/>
+    <file name="u497-10.png" crc="61512821" ref="contact"/>
+    <file name="u497-102.png" crc="402953624" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="3982238425" seo="true" mt="1528125712728" redirect="true"/>
+  <file name="portfolio.html" crc="4107788402" seo="true" mt="1528125837449" redirect="true"/>
+  <file name="about.html" crc="21647366" seo="true" mt="1528125618778" redirect="true"/>
+  <file name="contact.html" crc="141446601" seo="true" mt="1528125618778" redirect="true"/>
+</manifest>
